@@ -1,0 +1,32 @@
+{
+  "name": "node-faststart",
+  "version": "1.0.0",
+  "description": "MP4 / QuickTime compatible FastStart processing library for node.js v8",
+  "main": "faststart.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wintu/node-faststart.git"
+  },
+  "keywords": [
+    "mp4",
+    "mov",
+    "quicktime",
+    "faststart",
+    "fast",
+    "start",
+    "media",
+    "ffmpeg"
+  ],
+  "author": "WiNtU",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wintu/node-faststart/issues"
+  },
+  "homepage": "https://gitlab.com/wintu/node-faststart#README",
+  "devDependencies": {
+    "fluent-ffmpeg": "^2.1.2"
+  }
+}
