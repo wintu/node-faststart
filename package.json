@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/wintu/node-faststart/issues"
   },
-  "homepage": "https://gitlab.com/wintu/node-faststart#README",
+  "homepage": "https://github.com/wintu/node-faststart#README",
   "devDependencies": {
     "fluent-ffmpeg": "^2.1.2"
   }

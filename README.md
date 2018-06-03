@@ -8,7 +8,7 @@ npm install node-faststart
 ```
 
 ## Example
-Make thumbnail from videos not faststarted
+Make thumbnail from videos not faststarted  
 https://github.com/wintu/node-faststart/blob/master/example/thumbnail.js
 
 ## Methods
