@@ -1,4 +1,4 @@
-const faststart = require('../faststart')
+const faststart = require('node-faststart')
 const fs = require('fs')
 const ffmpeg = require('fluent-ffmpeg')
 
